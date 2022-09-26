@@ -1,5 +1,5 @@
 # Wiki-API-RESTful-API
-This application is small demonstration of knowledge of RESTfull APIs. Wiki-API is the server which will handle all your RESTfull API requests. Small database of "articles" is implemented using mongoDB. With the RESTfull APIs you can add, modify, get and delete articles.
+This application is small demonstration of knowledge of RESTful APIs. Wiki-API is the server which will handle all your RESTfull API requests. Small database of "articles" is implemented using mongoDB. With the RESTfull APIs you can add, modify, get and delete articles.
 
 Please have a look at the demo:
 
